@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on Video Calling App using firebase
+🌱 I’m currently learning Android Development,Python,Sqlite
+📫 Reach me through singhayush6264@gmail.com
+🤔 I’m looking for help with Backend
 
 <!--
 **DeMoN-7/DeMoN-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://i.gifer.com/xt.gif
 -->
