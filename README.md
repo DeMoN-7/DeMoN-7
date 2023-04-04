@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on Video Calling App using firebase
-🌱 I’m currently learning Android Development,Python,Sqlite
+<br>🌱 I’m currently learning Android Development,Python,Sqlite
 📫 Reach me through singhayush6264@gmail.com
 🤔 I’m looking for help with Backend
 
