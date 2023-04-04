@@ -1,14 +1,12 @@
 ### Hi there 👋
+
 🔭 I’m currently working on Video Calling App using firebase
 <br>🌱 I’m currently learning Android Development,Python,Sqlite
 <br>📫 Reach me through singhayush6264@gmail.com
 <br>🤔 I’m looking for help with Backend<br><br>
-<img align=left width="47%" src="https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&theme=radical"/>
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7"/>
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7&layout=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
