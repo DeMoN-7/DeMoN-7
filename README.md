@@ -5,8 +5,6 @@
 <br>📫 Reach me through singhayush6264@gmail.com
 <br>🤔 I’m looking for help with Backend<br><br>
 
-(https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&theme=transparent)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7&layout=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -28,4 +26,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://i.gifer.com/xt.gif
+
+
+
+
+
+(https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&theme=transparent)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7&layout=transparent)](https://github.com/anuraghazra/github-readme-stats)
 -->
