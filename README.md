@@ -5,8 +5,8 @@
 <br>📫 Reach me through singhayush6264@gmail.com
 <br>🤔 I’m looking for help with Backend<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7&layout=transparent)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&theme=transparent)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7&layout=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
