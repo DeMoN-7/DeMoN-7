@@ -3,7 +3,7 @@
 Hi there 👋<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeMoN-7&label=Profile%20views&color=6600ff&style=flat" alt="DeMoN-7" /> </p>
-🔭 I’m currently working on Video Calling App using firebase
+🔭 I’m currently working on<b> Credit Card Fraud Detection using ML</b>
 <br>🌱 I’m currently learning Android Development,Python,Sqlite
 <br>📫 Reach me through singhayush6264@gmail.com
 <br>🤔 I’m looking for help with Backend<br><br>
