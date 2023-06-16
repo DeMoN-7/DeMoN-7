@@ -15,7 +15,6 @@ Hi there 👋<br>
 
 <p>
  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7&theme=dark"/>
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&locale=en&theme=dark" alt="demon" />
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DeMoN-7&theme=dark" alt=DeMoN-7"/>
                                                                                                    
 
@@ -32,6 +31,11 @@ Hi there 👋<br>
                                                                                                                                          
                                                                                                                                          
 <!--     
+                                                                                                   
+                                                                       
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&locale=en&theme=dark" alt="demon" />                            
+                                                                                                   
+                                                                                                   
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=DeMoN-7&show_icons=true&theme=dark&locale=en&layout=compact" alt="DeMoN-7"/>                                                                                                                                       -->
                                                                                                                                          
                                                                                                                                          
