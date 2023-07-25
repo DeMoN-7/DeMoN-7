@@ -4,7 +4,7 @@ Hi there 👋<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeMoN-7&label=Profile%20views&color=6600ff&style=flat" alt="DeMoN-7" /> </p>
 🔭 I’m currently working on<b> NLP(Natural Language Processing)</b>
-<br>🌱 I’m currently learning Android Development,Python,Sqlite
+<br>🌱 I’m currently learning Full-Stack Web Development,Python,Sqlite
 <br>📫 Reach me through singhayush6264@gmail.com
 <br>🤔 I’m looking for help with Backend<br><br>
 <h3 align="left">Languages and Tools:</h3>
