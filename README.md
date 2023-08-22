@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on NLP(Natural Language Processing)<br>🌱 I’m currently learning Full-Stack Web Development,Python,Sqlite<br>📫 Reach me through singhayush6264@gmail.com<br>🤔 I’m looking for help with Backend</p>
+<p align="left">🔭 I’m currently working on NLP(Natural Language Processing)<br>🌱 I’m currently learning Full-Stack Web Development,Python,Sqlite<br>📫 Reach me through<button> <a href="mailto:singhayush6264@gmail.com">Mail</a></button><br>🤔 I’m looking for help with Backend</p>
 
 ###
 
