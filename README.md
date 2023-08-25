@@ -72,16 +72,11 @@
   <img src="https://streak-stats.demolab.com?user=DeMoN-7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/DeMoN-7/DeMoN-7/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31xhxlcrr3er76m43ttwx2z5gfzq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+<p align="center">
+  <a href="https://open.spotify.com/user/8owmjs8t41h3ygjx58i3js59y">
+    <img src="https://novatorem-rho-blue.vercel.app/api/spotify" alt="Spotify" />
   </a>
-</div>
+</p>
+
 
 ###
