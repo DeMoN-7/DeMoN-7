@@ -48,7 +48,14 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demon-7&show_icons=true&locale=en" alt="demon-7" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeMoN-7&hide_progress=true) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demon-7&" alt="demon-7" /></p>
+
+<img  src="https://github-readme-stats.vercel.app/api?username=DeMoN-7&show_icons=true&locale=en" alt="demon-7" />
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeMoN-7&" alt="demon-7" /></p>
 
