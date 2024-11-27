@@ -58,5 +58,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeMoN-7&" alt="demon-7" /></p>
- <h3 align="center">Stats after 26 September 2024</h3><hr><br>
+ <h3 align="center">Stats after 26 october 2024</h3><hr><br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@b9d028ae-2e51-4fbd-8e25-3e98488f3716/5839d067-97c8-4683-8723-027bf5903720.png" /></a>
