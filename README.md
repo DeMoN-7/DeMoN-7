@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushsi58964180" target="_blank"><img src="https://img.shields.io/twitter/follow/ayushsi58964180?logo=twitter&style=for-the-badge" alt="ayushsi58964180" /></a> </p>
 
-- 🔭 I’m currently focused on **Frontend Development**
+- 🔭 I’m currently focused on *Apex**
 
 - 🌱 Expanding my skills with **React**
 
