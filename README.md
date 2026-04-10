@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/ayushsi58964180" target="_blank"><img src="https://img.shields.io/twitter/follow/ayushsi58964180?logo=twitter&style=for-the-badge" alt="ayushsi58964180" /></a> </p>
 
-- 🔭 I’m currently focused on *Apex**
+- 🔭 I’m currently focused on **Apex**
 
-- 🌱 Expanding my skills with **React**
+- 🌱 Expanding my skills with **React & LWC**
 
-- 👯 Open to collaborations on **Fully Functional Chat Applications**
+- 🤝 Seeking expertise in **LWC + SOQL + APEX**
 
-- 🤝 Seeking expertise in **Backend Development**
-
-- 💬 Feel free to ask me about **Frontend Technologies**
+- 💬 Feel free to ask me about **APEX**
 
 - 📫 You can reach me at **singhayush6264@gmail.com**
 
