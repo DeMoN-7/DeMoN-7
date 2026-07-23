@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demon-7&label=Profile%20views&color=0e75b6&style=flat" alt="demon-7" /> </p>
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37345)](https://codetime.dev)
+<p>Last 30 days stats: 
+  
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37345)](https://codetime.dev) </p> 
+
+
 
 <p align="left"> <a href="https://twitter.com/ayushsi58964180" target="_blank"><img src="https://img.shields.io/twitter/follow/ayushsi58964180?logo=twitter&style=for-the-badge" alt="ayushsi58964180" /></a> </p>
 
-- 🔭 I’m currently focused on **Apex**
+- 🔭 I’m currently  [![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=37345&theme=dark&style=minimal)](https://codetime.dev)
 
 - 🌱 Expanding my skills with **React & LWC**
 
