@@ -50,6 +50,5 @@
 
 [![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=37345&days=30&limit=6&theme=dark)](https://codetime.dev)
 
-[![CodeTime Activity Calendar](https://codetime.dev/api/widgets/calendar.svg?uid=37345&theme=dark)](https://codetime.dev)
 
 [![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=37345&days=90&theme=dark)](https://codetime.dev)
